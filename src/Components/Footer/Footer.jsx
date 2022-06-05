@@ -34,7 +34,7 @@ export const Footer = () => {
                             <div className={style.social_links}>
                                 <a className={style.links} href="https://www.facebook.com/profile.php?id=100011712677108" target="_blank"><FacebookIcon className={style.social_media_icon}/></a>
                                 <a className={style.links} href="#" target="_blank"><InstagramIcon className={style.social_media_icon}/></a>
-                                <a className={style.links} href="https://api.whatsapp.com/send?phone=8369635178&text=&source=&data=" target="_blank"><WhatsAppIcon className={style.social_media_icon}/></a>
+                                <a className={style.links} href="https://api.whatsapp.com/send?phone=918369635178&text=&source=&data=" target="_blank"><WhatsAppIcon className={style.social_media_icon}/></a>
                                 <a className={style.links} href="#" target="_blank"><TwitterIcon className={style.social_media_icon}/></a>
                             </div>
                         </div>

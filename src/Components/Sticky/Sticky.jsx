@@ -10,7 +10,7 @@ export const Sticky = () => {
     <section className={style.sticky}>
      <div>
      
-     <Link href="https://api.whatsapp.com/send?phone=8369635178&text=&source=&data=" className={style.whatsApp} target="_blank">
+     <Link href="https://api.whatsapp.com/send?phone=918369635178&text=&source=&data=" className={style.whatsApp} target="_blank">
        <WhatsAppIcon className={style.whatsicons}/>
        </Link>
 
