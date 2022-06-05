@@ -1,0 +1,67 @@
+.admin_controller{
+    width: 100%;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.contact_container{
+
+    width:  100%;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 5px;
+
+
+
+}
+.contact_container > div {
+    padding: 20px;
+}
+
+@media(max-width: 767px){
+    .contact_container{
+
+        width:  100%;
+        padding: 10px;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+        border-radius: 5px;
+
+    
+    }
+
+
+  }
+@media(max-width: 574px){
+
+  
+  }
+  
+
+  .pagination {
+    display: inline-block;
+    margin-top: 30px;
+  }
+  
+  .pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  .pagination a.active {
+    background-color: #6b8e85;;
+    color: white;
+  }
+  
+  .pagination a:hover:not(.active) {background-color: #ddd;}
+
+
+  .spinner_div{
+      margin: auto;
+      width: 100%;
+      padding: 50px;
+      text-align: center;
+  }

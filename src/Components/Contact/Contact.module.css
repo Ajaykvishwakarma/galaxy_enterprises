@@ -1,0 +1,49 @@
+.contact_controller{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    
+}
+
+.cont_form{
+
+    padding: 50px;
+
+}
+
+.cont_details{
+
+
+    
+    background: rgb(240, 240, 240);
+    padding: 30px;
+
+}
+.cont_details > div{
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+
+/*responsive*/
+@media(max-width: 767px){
+    .contact_controller{
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        
+    }
+
+  }
+  @media(max-width: 574px){
+    .contact_controller{
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        
+    }
+
+  
+  }
+  

@@ -1,0 +1,29 @@
+
+
+.blog_controller{
+    width: 80%;
+    margin:auto;
+    margin-top: 20px;
+    margin-bottom: 50px;
+
+}
+.post_header{
+    width: 80%;
+    margin: auto;
+    padding: 40px;
+    text-align: left;
+}
+
+.post_header > p:hover {
+    cursor: pointer;
+}
+
+
+
+.post_div {
+    width: 80%;
+    margin: auto;
+    border: 1px solid gray;
+    height: 500px;
+    padding: 50px;
+}

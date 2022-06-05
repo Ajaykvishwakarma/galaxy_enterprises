@@ -1,0 +1,56 @@
+.home_container{
+    width: 100%;
+    margin: auto;
+
+
+}
+
+.descriptiion{
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.about_div{
+    width: 100%;
+    padding: 60px;
+    font-family: cursive;
+}
+.about_desc{
+    font-size: 15px;
+    font-weight: none;
+    margin: auto;
+    margin-top: 20px;
+    line-height: 30px;
+}
+
+.suggetion{
+
+    width: 100%;
+    padding: 30px;
+    margin: auto;
+
+}
+.suggetion > p{
+    width: 50%;
+    margin: auto;
+    line-height: 30px;
+}
+/*responsive*/
+@media(max-width: 767px){
+    .suggetion > p{
+        width: 90%;
+        margin: auto;
+        line-height: 30px;
+    }
+  }
+  @media(max-width: 574px){
+    .suggetion > p{
+        width: 100%;
+        margin: auto;
+        line-height: 30px;
+    }
+
+  
+  }

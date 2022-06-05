@@ -1,0 +1,51 @@
+
+
+/* @import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100&display=swap"); */
+
+* {
+  margin: 0;
+  padding: 0;
+ 
+  
+}
+
+
+/* navbar style start  */
+
+
+.appbar{
+
+  width: 100%;
+  font-family: "Jost", sans-serif;
+  height: 6rem;
+ padding-top: 14px;
+ 
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  z-index: 99999;
+  background: #5f5f5f !important;  /*whichever you want*/
+    /* opacity: 0.7;           0.5 determines transparency value  */
+    /* filter:(opacity=100);  */
+  
+    position: sticky;
+    position: fixed;
+
+}
+
+.smallMenu {
+  width: 900px !important;
+
+}
+
+.navLink{
+  color: black;
+}
+.navLink:hover{
+  color: black;
+}
+.navLink1{
+  color: white;
+}
+
+.navLink1:hover{
+  color: white;
+}

@@ -1,0 +1,10 @@
+
+  .spinner_div{
+    margin: auto;
+    width: 100%;
+    padding: 50px;
+    text-align: center;
+}
+.btn{
+    background: gray !important;
+}
